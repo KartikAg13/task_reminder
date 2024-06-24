@@ -24,7 +24,10 @@ The Python script reads the *data.json* file, schedules reminders, and sends ema
 
 ## Requirements
 
-   - **Before you begin:** Execute *./before.sh* in your terminal to setup
+   - **Before you begin:**
+        - Execute *./before.sh* in your terminal to setup
+        
+        - Then select pyo3 from the menu
 
    - **Rust:**
         - pyo3 = "0.21.1"   *For integrating with Python in Rust*
