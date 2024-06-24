@@ -1,0 +1,16 @@
+[
+  {
+    "email": "someone@something.mail.in",
+    "username": "someone",
+    "password": "hello1234",
+    "task": {
+      "name": "project",
+      "description": "",
+      "due_date": {
+        "day": 29,
+        "month": 5,
+        "year": 2025
+      }
+    }
+  }
+]
