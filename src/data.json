@@ -4,8 +4,8 @@
     "username": "someone",
     "password": "hello1234",
     "task": {
-      "name": "project",
-      "description": "",
+      "name": "google cloud",
+      "description": "learn",
       "due_date": {
         "day": 29,
         "month": 5,
